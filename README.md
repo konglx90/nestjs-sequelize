@@ -1,4 +1,4 @@
-# nest-e-book
+# nestjs-sequelize
 
 ## Description
 
